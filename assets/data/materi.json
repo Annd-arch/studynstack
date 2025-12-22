@@ -1,0 +1,1299 @@
+{
+  "Matematika": {
+    "Aljabar": [
+      {
+        "question": "Selesaikan persamaan: 2x + 3 = 11. Nilai x adalah?",
+        "A": "4",
+        "B": "3",
+        "C": "5",
+        "D": "6",
+        "answer": "A",
+        "explanation": "2x + 3 = 11 → 2x = 8 → x = 4."
+      },
+      {
+        "question": "Jika x = 2 dan y = 3, nilai dari 3x - 2y adalah?",
+        "A": "0",
+        "B": "3",
+        "C": "2",
+        "D": "9",
+        "answer": "A",
+        "explanation": "3*2 - 2*3 = 6 - 6 = 0."
+      },
+      {
+        "question": "Sederhanakan: x^2 * x^3 = ?",
+        "A": "x^5",
+        "B": "x^6",
+        "C": "x^1",
+        "D": "x^0",
+        "answer": "A",
+        "explanation": "Jumlahkan pangkat: 2 + 3 = 5 → x^5."
+      },
+      {
+        "question": "Bentuk faktorisasi dari x^2 - 9 adalah?",
+        "A": "(x-3)(x+3)",
+        "B": "(x-9)(x+1)",
+        "C": "(x-1)(x+9)",
+        "D": "(x+3)^2",
+        "answer": "A",
+        "explanation": "x^2 - 9 = (x-3)(x+3) (selisih kuadrat)."
+      },
+      {
+        "question": "Jika 5x = 20, maka x = ?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "C",
+        "explanation": "5x = 20 → x = 20/5 = 4."
+      },
+      {
+        "question": "3/4 + 1/2 = ?",
+        "A": "5/4",
+        "B": "1",
+        "C": "7/4",
+        "D": "3/2",
+        "answer": "A",
+        "explanation": "3/4 + 1/2 = 3/4 + 2/4 = 5/4."
+      },
+      {
+        "question": "Jika f(x) = 2x + 1, maka f(3) = ?",
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "5",
+        "answer": "A",
+        "explanation": "f(3) = 2*3 + 1 = 7."
+      },
+      {
+        "question": "Nilai koefisien dari x dalam 7x - 4 adalah?",
+        "A": "7",
+        "B": "-4",
+        "C": "3",
+        "D": "1",
+        "answer": "A",
+        "explanation": "Koefisien x adalah 7."
+      },
+      {
+        "question": "Persamaan linear umum memiliki bentuk?",
+        "A": "ax + b = 0",
+        "B": "ax^2 + bx + c = 0",
+        "C": "a/x + b = 0",
+        "D": "a^x + b = 0",
+        "answer": "A",
+        "explanation": "Persamaan linear sederhana: ax + b = 0."
+      },
+      {
+        "question": "Hasil dari (2x)(3x) = ?",
+        "A": "6x^2",
+        "B": "5x",
+        "C": "6x",
+        "D": "x^5",
+        "answer": "A",
+        "explanation": "2x * 3x = 6 x^2."
+      }
+    ],
+    "Kalkulus Dasar": [
+      {
+        "question": "Limit dari f(x)=2x+1 saat x→3 adalah?",
+        "A": "7",
+        "B": "6",
+        "C": "Undefined",
+        "D": "3",
+        "answer": "A",
+        "explanation": "Substitusi x=3 → 2*3+1 = 7."
+      },
+      {
+        "question": "Turunan dari f(x)=x^2 adalah?",
+        "A": "x",
+        "B": "2x",
+        "C": "x^3",
+        "D": "1",
+        "answer": "B",
+        "explanation": "d/dx x^n = n x^(n-1) → 2x."
+      },
+      {
+        "question": "Integral tak tentu dari 2x dx adalah?",
+        "A": "x^2 + C",
+        "B": "2x + C",
+        "C": "x + C",
+        "D": "x^3 + C",
+        "answer": "A",
+        "explanation": "∫2x dx = x^2 + C."
+      },
+      {
+        "question": "Aturan pangkat: d/dx[x^n] = ?",
+        "A": "n*x^(n-1)",
+        "B": "x^n",
+        "C": "n^x",
+        "D": "x^(n+1)",
+        "answer": "A",
+        "explanation": "Aturan pangkat standar."
+      },
+      {
+        "question": "Jika f(x)=3x^3, f'(x) = ?",
+        "A": "9x^2",
+        "B": "3x^2",
+        "C": "x^3",
+        "D": "6x^2",
+        "answer": "A",
+        "explanation": "Derivative: 3 * 3 x^(2) = 9x^2."
+      },
+      {
+        "question": "Limit (x→0) dari sin(x)/x = ?",
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "Infinity",
+        "answer": "B",
+        "explanation": "Limit sin x / x saat x→0 = 1."
+      },
+      {
+        "question": "Integral dari 1/x dx adalah?",
+        "A": "ln|x| + C",
+        "B": "1/x + C",
+        "C": "x + C",
+        "D": "e^x + C",
+        "answer": "A",
+        "explanation": "∫1/x dx = ln|x| + C."
+      },
+      {
+        "question": "Turunan dari sin(x) adalah?",
+        "A": "cos(x)",
+        "B": "-cos(x)",
+        "C": "sin(x)",
+        "D": "-sin(x)",
+        "answer": "A",
+        "explanation": "d/dx sin x = cos x."
+      },
+      {
+        "question": "Aturan rantai: d/dx[f(g(x))] = ?",
+        "A": "f'(g(x)) * g'(x)",
+        "B": "f(g(x)) * g(x)",
+        "C": "f'(x) + g'(x)",
+        "D": "g'(x)",
+        "answer": "A",
+        "explanation": "Turunan fungsi komposit: turunan luar dikali turunan dalam."
+      },
+      {
+        "question": "Integral dari cos(x) dx adalah?",
+        "A": "sin(x) + C",
+        "B": "-sin(x) + C",
+        "C": "cos(x) + C",
+        "D": "x sin(x)",
+        "answer": "A",
+        "explanation": "∫cos x dx = sin x + C."
+      }
+    ],
+    "Trigonometri": [
+      {
+        "question": "Nilai sin(0) adalah?",
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "0.5",
+        "answer": "A",
+        "explanation": "sin 0 = 0."
+      },
+      {
+        "question": "Nilai cos(0) adalah?",
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "0.5",
+        "answer": "B",
+        "explanation": "cos 0 = 1."
+      },
+      {
+        "question": "Identitas: sin^2(x) + cos^2(x) = ?",
+        "A": "1",
+        "B": "0",
+        "C": "sin(2x)",
+        "D": "cos(2x)",
+        "answer": "A",
+        "explanation": "Identitas fundamental trigonometri."
+      },
+      {
+        "question": "Nilai tan(45°) = ?",
+        "A": "0",
+        "B": "1",
+        "C": "√2",
+        "D": "Undefined",
+        "answer": "B",
+        "explanation": "tan 45° = 1."
+      },
+      {
+        "question": "Jika sin(θ)=1/2 dan θ di [0, 90°], maka θ = ?",
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°",
+        "answer": "A",
+        "explanation": "sin 30° = 1/2."
+      },
+      {
+        "question": "Konversi 180° ke radian = ?",
+        "A": "π",
+        "B": "2π",
+        "C": "π/2",
+        "D": "0",
+        "answer": "A",
+        "explanation": "180° = π radian."
+      },
+      {
+        "question": "Rumus cos(a+b) = ?",
+        "A": "cos a cos b - sin a sin b",
+        "B": "cos a sin b + sin a cos b",
+        "C": "sin a sin b - cos a cos b",
+        "D": "cos a + cos b",
+        "answer": "A",
+        "explanation": "Identitas cos(a+b)."
+      },
+      {
+        "question": "Jika cos θ = 0, maka θ bisa bernilai? (salah satu)",
+        "A": "90°",
+        "B": "0°",
+        "C": "45°",
+        "D": "60°",
+        "answer": "A",
+        "explanation": "cos 90° = 0."
+      },
+      {
+        "question": "Nilai sin(90°) adalah?",
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "0.5",
+        "answer": "A",
+        "explanation": "sin 90° = 1."
+      },
+      {
+        "question": "Identitas tan x = ?",
+        "A": "sin x / cos x",
+        "B": "cos x / sin x",
+        "C": "1 / sin x",
+        "D": "sin^2 x + cos^2 x",
+        "answer": "A",
+        "explanation": "tan x = sin x / cos x."
+      }
+    ],
+    "Geometri Dasar": [
+      {
+        "question": "Luas persegi panjang dengan panjang 5 dan lebar 3 adalah?",
+        "A": "15",
+        "B": "8",
+        "C": "10",
+        "D": "12",
+        "answer": "A",
+        "explanation": "L = p * l = 5 * 3 = 15."
+      },
+      {
+        "question": "Keliling persegi sisi 4 adalah?",
+        "A": "12",
+        "B": "16",
+        "C": "8",
+        "D": "20",
+        "answer": "B",
+        "explanation": "Keliling = 4 * sisi = 4 * 4 = 16."
+      },
+      {
+        "question": "Luas lingkaran dengan jari-jari r = 3 adalah? (π gunakan π)",
+        "A": "9π",
+        "B": "6π",
+        "C": "3π",
+        "D": "12π",
+        "answer": "A",
+        "explanation": "L = π r^2 = π * 9 = 9π."
+      },
+      {
+        "question": "Volume kubus sisi a = 2 adalah?",
+        "A": "6",
+        "B": "8",
+        "C": "4",
+        "D": "12",
+        "answer": "B",
+        "explanation": "V = a^3 = 2^3 = 8."
+      },
+      {
+        "question": "Sudut siku-siku bernilai?",
+        "A": "45°",
+        "B": "90°",
+        "C": "180°",
+        "D": "60°",
+        "answer": "B",
+        "explanation": "Siku-siku = 90°."
+      },
+      {
+        "question": "Diagonal persegi dengan sisi s adalah?",
+        "A": "s√2",
+        "B": "2s",
+        "C": "s/2",
+        "D": "s√3",
+        "answer": "A",
+        "explanation": "Diagonal = s * √2."
+      },
+      {
+        "question": "Luas segitiga dengan alas 6 dan tinggi 4 adalah?",
+        "A": "12",
+        "B": "24",
+        "C": "10",
+        "D": "8",
+        "answer": "A",
+        "explanation": "L = 1/2 * alas * tinggi = 0.5 * 6 * 4 = 12."
+      },
+      {
+        "question": "Segitiga sama kaki memiliki dua sisi sama dan dua sudut pangkal yang?",
+        "A": "Sama",
+        "B": "Berbeda",
+        "C": "Salah",
+        "D": "Tidak ada",
+        "answer": "A",
+        "explanation": "Segitiga sama kaki: dua sudut pangkal sama."
+      },
+      {
+        "question": "Jika diameter = 10, jari-jari r = ?",
+        "A": "10",
+        "B": "5",
+        "C": "20",
+        "D": "2",
+        "answer": "B",
+        "explanation": "r = diameter / 2 = 5."
+      },
+      {
+        "question": "Berapakah luas permukaan kubus sisi 3?",
+        "A": "54",
+        "B": "27",
+        "C": "18",
+        "D": "36",
+        "answer": "A",
+        "explanation": "Luas permukaan = 6 * a^2 = 6 * 9 = 54."
+      }
+    ],
+    "Statistika Dasar": [
+      {
+        "question": "Rata-rata dari data [2,4,6,8,10] adalah?",
+        "A": "6",
+        "B": "5",
+        "C": "4",
+        "D": "7",
+        "answer": "A",
+        "explanation": "Jumlah = 30, dibagi 5 = 6."
+      },
+      {
+        "question": "Median dari [1,3,5,7,9] adalah?",
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9",
+        "answer": "B",
+        "explanation": "Median adalah nilai tengah → 5."
+      },
+      {
+        "question": "Modus dari [2,2,3,3,3,4] adalah?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "Tidak ada",
+        "answer": "B",
+        "explanation": "Modus = nilai yang paling sering muncul → 3."
+      },
+      {
+        "question": "Varians populasi dihitung sebagai rata-rata kuadrat deviasi dari mean. Benar/Tidak?",
+        "A": "Benar",
+        "B": "Tidak",
+        "C": "Tergantung",
+        "D": "Kadang",
+        "answer": "A",
+        "explanation": "Definisi varians populasi memang demikian."
+      },
+      {
+        "question": "Standar deviasi adalah akar kuadrat dari apa?",
+        "A": "Mean",
+        "B": "Varians",
+        "C": "Modus",
+        "D": "Median",
+        "answer": "B",
+        "explanation": "Std dev = sqrt(varians)."
+      },
+      {
+        "question": "Jika mean = 10 dan n=4, total jumlah data = ?",
+        "A": "40",
+        "B": "14",
+        "C": "10",
+        "D": "4",
+        "answer": "A",
+        "explanation": "Total = mean * n = 10 * 4 = 40."
+      },
+      {
+        "question": "Distribusi normal juga dikenal sebagai?",
+        "A": "Distribusi Gauss",
+        "B": "Distribusi Poisson",
+        "C": "Distribusi Binomial",
+        "D": "Distribusi Uniform",
+        "answer": "A",
+        "explanation": "Distribusi normal = Gauss."
+      },
+      {
+        "question": "Probabilitas peristiwa pasti bernilai?",
+        "A": "1",
+        "B": "0",
+        "C": "0.5",
+        "D": "-1",
+        "answer": "A",
+        "explanation": "Peristiwa pasti memiliki probabilitas 1."
+      },
+      {
+        "question": "Probabilitas peristiwa mustahil bernilai?",
+        "A": "0",
+        "B": "1",
+        "C": "0.5",
+        "D": "-1",
+        "answer": "A",
+        "explanation": "Peristiwa mustahil = 0."
+      },
+      {
+        "question": "Jika P(A)=0.2 dan P(B)=0.3 dan A,B independent, P(A and B) = ?",
+        "A": "0.06",
+        "B": "0.5",
+        "C": "0.6",
+        "D": "0.02",
+        "answer": "A",
+        "explanation": "Independen → P(A∩B)=P(A)*P(B)=0.2*0.3=0.06."
+      }
+    ]
+  },
+  "Rangkaian Elektronika": {
+    "Konsep Dasar Rangkaian": [
+      {
+        "question": "Hukum Ohm menyatakan hubungan antara V, I, dan R yaitu?",
+        "A": "V = I × R",
+        "B": "V = I / R",
+        "C": "I = V × R",
+        "D": "R = V / I^2",
+        "answer": "A",
+        "explanation": "Hukum Ohm: Tegangan V = arus I dikali resistansi R."
+      },
+      {
+        "question": "Satuan arus listrik adalah?",
+        "A": "Volt",
+        "B": "Ohm",
+        "C": "Ampere",
+        "D": "Watt",
+        "answer": "C",
+        "explanation": "Satuan arus adalah Ampere (A)."
+      },
+      {
+        "question": "Jika R=10Ω dan I=2A, maka V=?",
+        "A": "5V",
+        "B": "20V",
+        "C": "12V",
+        "D": "8V",
+        "answer": "B",
+        "explanation": "V = I×R = 2×10 = 20 V."
+      },
+      {
+        "question": "Sumber tegangan DC contohnya?",
+        "A": "Baterai",
+        "B": "AC mains",
+        "C": "Generator AC",
+        "D": "Transformator",
+        "answer": "A",
+        "explanation": "Baterai adalah sumber DC."
+      },
+      {
+        "question": "Komponen yang menyimpan muatan listrik disebut?",
+        "A": "Resistor",
+        "B": "Kapasitor",
+        "C": "Induktor",
+        "D": "Dioda",
+        "answer": "B",
+        "explanation": "Kapasitor menyimpan muatan."
+      },
+      {
+        "question": "Satuan kapasitansi adalah?",
+        "A": "Henry",
+        "B": "Farad",
+        "C": "Ohm",
+        "D": "Tesla",
+        "answer": "B",
+        "explanation": "Satuan kapasitansi adalah Farad (F)."
+      },
+      {
+        "question": "Penyearah setengah gelombang biasa memakai komponen?",
+        "A": "Transistor",
+        "B": "Dioda",
+        "C": "Op-Amp",
+        "D": "Resistor",
+        "answer": "B",
+        "explanation": "Dioda digunakan untuk penyearah (rectifier)."
+      },
+      {
+        "question": "Hubungan daya P = ?",
+        "A": "V × I",
+        "B": "V / I",
+        "C": "I / V",
+        "D": "V + I",
+        "answer": "A",
+        "explanation": "Daya listrik P = Tegangan × Arus."
+      },
+      {
+        "question": "Jika P=20W dan V=5V, I = ?",
+        "A": "1A",
+        "B": "4A",
+        "C": "0.25A",
+        "D": "2A",
+        "answer": "B",
+        "explanation": "I = P/V = 20/5 = 4 A."
+      },
+      {
+        "question": "Seri vs paralel: arus di rangkaian seri adalah?",
+        "A": "Sama pada tiap elemen",
+        "B": "Berbeda tiap elemen",
+        "C": "Selalu nol",
+        "D": "Lebih besar pada elemen kecil",
+        "answer": "A",
+        "explanation": "Pada rangkaian seri arus sama tiap elemen."
+      }
+    ],
+    "Dioda & Transistor": [
+      {
+        "question": "Fungsi utama dioda adalah?",
+        "A": "Menguatkan sinyal",
+        "B": "Menyearahkan arus",
+        "C": "Menyimpan energi",
+        "D": "Mengubah frekuensi",
+        "answer": "B",
+        "explanation": "Dioda mengalirkan arus satu arah → penyearah."
+      },
+      {
+        "question": "Transistor bekerja sebagai?",
+        "A": "Resistor variabel",
+        "B": "Sakelar dan penguat",
+        "C": "Sumber tegangan",
+        "D": "Kapasitor",
+        "answer": "B",
+        "explanation": "Transistor dapat bertindak sebagai saklar dan penguat."
+      },
+      {
+        "question": "BJT memiliki terminal bernama?",
+        "A": "Gate, Drain, Source",
+        "B": "Anoda, Katoda",
+        "C": "Base, Collector, Emitter",
+        "D": "Plus, Minus",
+        "answer": "C",
+        "explanation": "BJT: Base, Collector, Emitter."
+      },
+      {
+        "question": "MOSFET terminal utamanya adalah?",
+        "A": "Base, Emitter, Collector",
+        "B": "Gate, Drain, Source",
+        "C": "Anoda, Katoda",
+        "D": "Input, Output",
+        "answer": "B",
+        "explanation": "MOSFET: Gate, Drain, Source."
+      },
+      {
+        "question": "Bias forward pada dioda membuat dioda?",
+        "A": "Terbalik",
+        "B": "Menghantarkan",
+        "C": "Terisolasi",
+        "D": "Terbakar",
+        "answer": "B",
+        "explanation": "Bias forward membuat dioda menghantarkan arus."
+      },
+      {
+        "question": "Transistor NPN: arus kecil ke base menghasilkan?",
+        "A": "Arus kolektor kecil",
+        "B": "Arus kolektor besar (penguatan)",
+        "C": "Tidak ada efek",
+        "D": "Menurunkan tegangan",
+        "answer": "B",
+        "explanation": "Arus base mengontrol arus kolektor (penguatan)."
+      },
+      {
+        "question": "Penguat common-emitter menghasilkan?",
+        "A": "Penguatan arus dan tegangan (phase inverted)",
+        "B": "Hanya penyearah",
+        "C": "Sakelar saja",
+        "D": "Pengurangan frekuensi",
+        "answer": "A",
+        "explanation": "Konfigurasi common-emitter memberikan penguatan dan pembalikan fase."
+      },
+      {
+        "question": "Dioda zener dipakai untuk?",
+        "A": "Stabilisasi tegangan (regulator)",
+        "B": "Penguat suara",
+        "C": "Filter sinyal",
+        "D": "Transmisi data",
+        "answer": "A",
+        "explanation": "Dioda zener menstabilkan tegangan pada nilai breakdown tertentu."
+      },
+      {
+        "question": "Transistor saturasi berarti?",
+        "A": "Transistor off (terbuka)",
+        "B": "Transistor fully on (kondisi saturasi)",
+        "C": "Transistor rusak",
+        "D": "Tegangan nol",
+        "answer": "B",
+        "explanation": "Saturasi = transistor penuh menghantarkan (sebagai saklar ON)."
+      },
+      {
+        "question": "Transistor sebagai saklar: ketika base diberi arus cukup maka?",
+        "A": "Transistor menjadi isolator",
+        "B": "Transistor menghantarkan (on)",
+        "C": "Transistor meledak",
+        "D": "Tidak berubah",
+        "answer": "B",
+        "explanation": "Base arus mengaktifkan transistor -> on."
+      }
+    ],
+    "Op-Amp Dasar": [
+      {
+        "question": "Op-amp adalah singkatan dari?",
+        "A": "Operational Amplifier",
+        "B": "Optional Amplifier",
+        "C": "Operating Amplitude",
+        "D": "Operational Amplitude",
+        "answer": "A",
+        "explanation": "Op-Amp = Operational Amplifier."
+      },
+      {
+        "question": "Konfigurasi inverting menghasilkan?",
+        "A": "Penguatan dengan pembalikan fase",
+        "B": "Penyearah arus",
+        "C": "Pengikut tegangan",
+        "D": "Sumber tegangan",
+        "answer": "A",
+        "explanation": "Inverting amplifier memberi gain dan phase inversion."
+      },
+      {
+        "question": "Pengikut tegangan (voltage follower) memiliki gain?",
+        "A": "0",
+        "B": "1",
+        "C": "10",
+        "D": "Tidak terdefinisi",
+        "answer": "B",
+        "explanation": "Voltage follower memberikan gain = 1."
+      },
+      {
+        "question": "Open-loop gain op-amp sangat besar → biasanya kita gunakan?",
+        "A": "Tanpa feedback",
+        "B": "Dengan feedback negatif untuk mengatur gain",
+        "C": "Hanya saturasi",
+        "D": "Sebagai beban",
+        "answer": "B",
+        "explanation": "Feedback negatif menstabilkan dan menentukan gain terukur."
+      },
+      {
+        "question": "Inverting op-amp: Vout = ? (ideal) jika Rf dan Rin diketahui",
+        "A": "-(Rf/Rin) * Vin",
+        "B": "(Rf/Rin) * Vin",
+        "C": "Vin",
+        "D": "0",
+        "answer": "A",
+        "explanation": "Rumus inverting: Vout = - (Rf/Rin) × Vin."
+      },
+      {
+        "question": "Comparator menggunakan op-amp untuk?",
+        "A": "Menguatkan sinyal kecil",
+        "B": "Membandingkan dua tegangan dan keluarkan level digital",
+        "C": "Menyearahkan",
+        "D": "Mengubah frekuensi",
+        "answer": "B",
+        "explanation": "Comparator membandingkan dan mengeluarkan high/low."
+      },
+      {
+        "question": "Op-amp ideal memiliki input bias current?",
+        "A": "Besar",
+        "B": "Nol (ideal)",
+        "C": "Variabel",
+        "D": "Tak terdefinisi",
+        "answer": "B",
+        "explanation": "Op-amp ideal diasumsikan input bias = 0."
+      },
+      {
+        "question": "Bandwidth op-amp biasanya?",
+        "A": "Tak terbatas",
+        "B": "Terbatas (gain-bandwidth product)",
+        "C": "Selalu 1kHz",
+        "D": "Selalu 10kHz",
+        "answer": "B",
+        "explanation": "Op-amp nyata punya gain-bandwidth product."
+      },
+      {
+        "question": "Filter aktif sering memakai?",
+        "A": "Transistor saja",
+        "B": "Op-amp + resistor + kapasitOr",
+        "C": "Dioda saja",
+        "D": "Transformator",
+        "answer": "B",
+        "explanation": "Filter aktif pakai op-amp dengan R dan C."
+      },
+      {
+        "question": "Salah satu parameter penting op-amp adalah?",
+        "A": "Input offset voltage",
+        "B": "Diameter",
+        "C": "Berat",
+        "D": "Warna",
+        "answer": "A",
+        "explanation": "Input offset voltage mempengaruhi akurasi."
+      }
+    ]
+  },
+  
+  "Rangkaian Logika": {
+    "Gerbang Logika Dasar": [
+      {
+        "question": "Gerbang AND akan bernilai 1 jika?",
+        "A": "Salah satu input 1",
+        "B": "Semua input 1",
+        "C": "Semua input 0",
+        "D": "Input acak",
+        "answer": "B",
+        "explanation": "AND hanya menghasilkan 1 jika semua input = 1."
+      },
+      {
+        "question": "Gerbang OR akan bernilai 1 jika?",
+        "A": "Semua input 0",
+        "B": "Semua input 1",
+        "C": "Salah satu input 1",
+        "D": "Tidak ada input",
+        "answer": "C",
+        "explanation": "OR cukup salah satu input bernilai 1."
+      },
+      {
+        "question": "Gerbang NOT berfungsi untuk?",
+        "A": "Menjumlahkan input",
+        "B": "Membalik nilai input",
+        "C": "Mengalikan input",
+        "D": "Mengalikan bit",
+        "answer": "B",
+        "explanation": "NOT membalik 1 jadi 0 dan 0 jadi 1."
+      },
+      {
+        "question": "Simbol gerbang NAND adalah?",
+        "A": "AND + bubble",
+        "B": "OR + bubble",
+        "C": "NOT + bubble",
+        "D": "XOR + bubble",
+        "answer": "A",
+        "explanation": "NAND = AND dengan negasi pada output."
+      },
+      {
+        "question": "Keluaran XOR bernilai 1 jika?",
+        "A": "Kedua input sama",
+        "B": "Kedua input berbeda",
+        "C": "Input pertama 1",
+        "D": "Input kedua 1",
+        "answer": "B",
+        "explanation": "XOR = 1 saat input berbeda."
+      },
+      {
+        "question": "NOR adalah?",
+        "A": "NOT OR",
+        "B": "OR",
+        "C": "NOT AND",
+        "D": "XOR",
+        "answer": "A",
+        "explanation": "NOR = OR dibalik outputnya."
+      },
+      {
+        "question": "Universal gate adalah?",
+        "A": "XOR dan XNOR",
+        "B": "NAND dan NOR",
+        "C": "AND dan OR",
+        "D": "NOT dan AND",
+        "answer": "B",
+        "explanation": "NAND/NOR bisa membuat semua jenis gerbang."
+      },
+      {
+        "question": "Tabel kebenaran terdiri dari?",
+        "A": "Input dan output",
+        "B": "Hanya input",
+        "C": "Hanya output",
+        "D": "Bilangan acak",
+        "answer": "A",
+        "explanation": "Truth table menjelaskan hubungan input-output."
+      },
+      {
+        "question": "Gerbang XNOR akan bernilai 1 jika?",
+        "A": "Input sama",
+        "B": "Input berbeda",
+        "C": "Salah satu input 1",
+        "D": "Semua input 0",
+        "answer": "A",
+        "explanation": "XNOR kebalikan XOR."
+      },
+      {
+        "question": "Simbol lingkaran kecil pada gerbang menunjukkan?",
+        "A": "Delay",
+        "B": "Pembalik (NOT)",
+        "C": "Ground",
+        "D": "Short circuit",
+        "answer": "B",
+        "explanation": "Bubble = pembalik."
+      }
+    ],
+    "Aljabar Boolean": [
+      {
+        "question": "Identitas A + 0 = ?",
+        "A": "1",
+        "B": "0",
+        "C": "A",
+        "D": "A'",
+        "answer": "C",
+        "explanation": "OR dengan 0 tidak mengubah nilai."
+      },
+      {
+        "question": "Identitas A · 1 = ?",
+        "A": "A",
+        "B": "1",
+        "C": "0",
+        "D": "A'",
+        "answer": "A",
+        "explanation": "AND dengan 1 tidak mengubah nilai."
+      },
+      {
+        "question": "Hukum komutatif berlaku pada?",
+        "A": "AND dan OR",
+        "B": "NOT saja",
+        "C": "XOR saja",
+        "D": "NOR saja",
+        "answer": "A",
+        "explanation": "A+B = B+A dan A·B = B·A."
+      },
+      {
+        "question": "A + A = ?",
+        "A": "A",
+        "B": "0",
+        "C": "1",
+        "D": "A'",
+        "answer": "A",
+        "explanation": "OR dengan dirinya tetap sama."
+      },
+      {
+        "question": "A · A = ?",
+        "A": "A",
+        "B": "0",
+        "C": "1",
+        "D": "A'",
+        "answer": "A",
+        "explanation": "AND dengan dirinya tetap sama."
+      },
+      {
+        "question": "A + A' = ?",
+        "A": "0",
+        "B": "1",
+        "C": "A",
+        "D": "A'",
+        "answer": "B",
+        "explanation": "Salah satu pasti bernilai 1."
+      },
+      {
+        "question": "A · A' = ?",
+        "A": "0",
+        "B": "1",
+        "C": "A",
+        "D": "A'",
+        "answer": "A",
+        "explanation": "AND berlawanan selalu 0."
+      },
+      {
+        "question": "De Morgan: (AB)' = ?",
+        "A": "A' + B'",
+        "B": "A'B'",
+        "C": "A + B",
+        "D": "AB'",
+        "answer": "A",
+        "explanation": "Aturan dasar transformasi Boolean."
+      },
+      {
+        "question": "De Morgan: (A + B)' = ?",
+        "A": "A'B'",
+        "B": "A'+B",
+        "C": "A+B'",
+        "D": "AB",
+        "answer": "A",
+        "explanation": "Invers OR = AND invers."
+      },
+      {
+        "question": "Identitas absorpsi: A + AB = ?",
+        "A": "A",
+        "B": "AB",
+        "C": "B",
+        "D": "A'",
+        "answer": "A",
+        "explanation": "A + AB = A."
+      }
+    ],
+    "Rangkaian Kombinasional": [
+      {
+        "question": "Half adder memiliki berapa input?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "answer": "B",
+        "explanation": "Half adder punya input A dan B."
+      },
+      {
+        "question": "Output sum pada half adder menggunakan gerbang?",
+        "A": "AND",
+        "B": "OR",
+        "C": "XOR",
+        "D": "NAND",
+        "answer": "C",
+        "explanation": "Sum = A XOR B."
+      },
+      {
+        "question": "Output carry pada half adder menggunakan?",
+        "A": "XOR",
+        "B": "AND",
+        "C": "OR",
+        "D": "NOT",
+        "answer": "B",
+        "explanation": "Carry = A AND B."
+      },
+      {
+        "question": "Full adder memiliki berapa input?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "answer": "B",
+        "explanation": "Input A, B, Cin."
+      },
+      {
+        "question": "Multiplexer 4:1 memiliki berapa input data?",
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8",
+        "answer": "C",
+        "explanation": "4 input data, 2 select."
+      },
+      {
+        "question": "Demultiplexer bekerja?",
+        "A": "1 input → banyak output",
+        "B": "Banyak input → 1 output",
+        "C": "Menjumlahkan sinyal",
+        "D": "Mengurangi sinyal",
+        "answer": "A",
+        "explanation": "Demux memecah sinyal."
+      },
+      {
+        "question": "Encoder mengubah?",
+        "A": "Input menjadi kode biner",
+        "B": "Kode biner ke sinyal",
+        "C": "Data menjadi analog",
+        "D": "Analog menjadi digital",
+        "answer": "A",
+        "explanation": "Encoder memberi representasi biner."
+      },
+      {
+        "question": "Decoder adalah kebalikan dari?",
+        "A": "Encoder",
+        "B": "Mux",
+        "C": "Demux",
+        "D": "Full adder",
+        "answer": "A",
+        "explanation": "Decoder mengubah kode biner jadi sinyal."
+      },
+      {
+        "question": "Komponen dasar ALU adalah?",
+        "A": "Adder",
+        "B": "Resistor",
+        "C": "Transistor",
+        "D": "Capacitor",
+        "answer": "A",
+        "explanation": "ALU menggunakan adder."
+      },
+      {
+        "question": "Comparator berfungsi untuk?",
+        "A": "Membandingkan dua nilai",
+        "B": "Menambah nilai",
+        "C": "Memori sementara",
+        "D": "Konversi sinyal",
+        "answer": "A",
+        "explanation": "Comparator menentukan lebih besar/kecil."
+      }
+    ]
+  },
+  "Kewarganegaraan": {
+    "Hak dan Kewajiban Warga Negara": [
+      {
+        "question": "Hak utama warga negara adalah?",
+        "A": "Hak hidup",
+        "B": "Hak merugikan orang lain",
+        "C": "Hak melanggar hukum",
+        "D": "Hak semaunya",
+        "answer": "A",
+        "explanation": "Hak hidup dijamin UUD 1945."
+      },
+      {
+        "question": "Kewajiban warga negara adalah?",
+        "A": "Menaati hukum",
+        "B": "Tidak ikut pemilu",
+        "C": "Merusak fasilitas umum",
+        "D": "Apatuh terhadap negara",
+        "answer": "A",
+        "explanation": "Setiap warga wajib taat peraturan."
+      },
+      {
+        "question": "Hak mendapatkan pendidikan dijamin oleh?",
+        "A": "UUD 1945 Pasal 31",
+        "B": "KUHP",
+        "C": "Kitab suci",
+        "D": "UU Desa",
+        "answer": "A",
+        "explanation": "Pasal 31 mengatur pendidikan."
+      },
+      {
+        "question": "Pajak adalah kewajiban untuk?",
+        "A": "Pembangunan negara",
+        "B": "Kepentingan pribadi",
+        "C": "Hadiah pemerintah",
+        "D": "Perusahaan asing",
+        "answer": "A",
+        "explanation": "Pajak digunakan untuk pembangunan."
+      },
+      {
+        "question": "Hak berpendapat diatur dalam?",
+        "A": "UUD 1945 Pasal 28",
+        "B": "KUHAP",
+        "C": "UU ITE",
+        "D": "UU Desa",
+        "answer": "A",
+        "explanation": "Pasal 28 menjamin kebebasan berpendapat."
+      },
+      {
+        "question": "Setiap warga wajib menjaga?",
+        "A": "Ketertiban umum",
+        "B": "Konflik sosial",
+        "C": "Kebisingan",
+        "D": "Anarki",
+        "answer": "A",
+        "explanation": "Kewajiban menjaga ketertiban."
+      },
+      {
+        "question": "Hak perlindungan hukum berlaku untuk?",
+        "A": "Semua warga negara",
+        "B": "Orang kaya saja",
+        "C": "Tamu negara saja",
+        "D": "Pelajar saja",
+        "answer": "A",
+        "explanation": "Semua warga setara di mata hukum."
+      },
+      {
+        "question": "Kewajiban bela negara termasuk?",
+        "A": "Menjaga NKRI",
+        "B": "Meninggalkan negara",
+        "C": "Merusak lingkungan",
+        "D": "Meningkatkan konflik",
+        "answer": "A",
+        "explanation": "Bela negara untuk mempertahankan NKRI."
+      },
+      {
+        "question": "Hak kebebasan beragama dijamin oleh?",
+        "A": "UUD 1945 Pasal 29",
+        "B": "UU Pajak",
+        "C": "KUHP",
+        "D": "UU Perdagangan",
+        "answer": "A",
+        "explanation": "Pasal 29 menjamin kebebasan beragama."
+      },
+      {
+        "question": "Kewajiban menjaga lingkungan adalah bentuk?",
+        "A": "Tanggung jawab sosial",
+        "B": "Kepentingan pribadi",
+        "C": "Larangan mutlak",
+        "D": "Paksaan",
+        "answer": "A",
+        "explanation": "Menjaga lingkungan merupakan tanggung jawab."
+      }
+    ],
+    "Pancasila sebagai Dasar Negara": [
+      {
+        "question": "Sila pertama berbunyi?",
+        "A": "Ketuhanan Yang Maha Esa",
+        "B": "Kemanusiaan yang adil",
+        "C": "Persatuan Indonesia",
+        "D": "Kerakyatan",
+        "answer": "A",
+        "explanation": "Sila pertama Pancasila."
+      },
+      {
+        "question": "Pancasila terdiri dari?",
+        "A": "5 sila",
+        "B": "3 sila",
+        "C": "7 sila",
+        "D": "2 sila",
+        "answer": "A",
+        "explanation": "Jumlah sila = 5."
+      },
+      {
+        "question": "Sila kedua menekankan?",
+        "A": "Kemanusiaan",
+        "B": "Agama",
+        "C": "Militer",
+        "D": "Ekonomi",
+        "answer": "A",
+        "explanation": "Sila kedua: Kemanusiaan yang adil dan beradab."
+      },
+      {
+        "question": "Sila ketiga berarti?",
+        "A": "Persatuan Indonesia",
+        "B": "Keadilan",
+        "C": "Ekonomi",
+        "D": "Lingkungan",
+        "answer": "A",
+        "explanation": "Sila ketiga menjaga persatuan bangsa."
+      },
+      {
+        "question": "Sila keempat tentang?",
+        "A": "Demokrasi",
+        "B": "Ekonomi",
+        "C": "Militer",
+        "D": "Kebudayaan",
+        "answer": "A",
+        "explanation": "Sila keempat → musyawarah mufakat."
+      },
+      {
+        "question": "Sila kelima berbunyi?",
+        "A": "Keadilan sosial",
+        "B": "Ketuhanan",
+        "C": "Persatuan",
+        "D": "Kerakyatan",
+        "answer": "A",
+        "explanation": "Sila kelima = keadilan sosial."
+      },
+      {
+        "question": "Pancasila ditetapkan pada tanggal?",
+        "A": "18 Agustus 1945",
+        "B": "17 Agustus 1945",
+        "C": "1 Juni 1945",
+        "D": "20 Mei 1908",
+        "answer": "A",
+        "explanation": "Hari pengesahan konstitusi."
+      },
+      {
+        "question": "Pancasila awalnya dirumuskan oleh?",
+        "A": "Ir. Soekarno",
+        "B": "Hatta",
+        "C": "Sudirman",
+        "D": "Kartini",
+        "answer": "A",
+        "explanation": "Soekarno dalam sidang BPUPKI."
+      },
+      {
+        "question": "Sifat Pancasila adalah?",
+        "A": "Fleksibel namun fundamental",
+        "B": "Kaku",
+        "C": "Tidak berubah",
+        "D": "Rahasia",
+        "answer": "A",
+        "explanation": "Pancasila fleksibel dalam penerapan."
+      },
+      {
+        "question": "Pancasila disebut dasar negara karena?",
+        "A": "Menjadi pedoman seluruh sistem negara",
+        "B": "Hanya pajangan",
+        "C": "Tidak digunakan",
+        "D": "Digunakan oleh satu suku saja",
+        "answer": "A",
+        "explanation": "Pancasila fondasi negara."
+      }
+    ],
+    "Wawasan Kebangsaan & NKRI": [
+      {
+        "question": "NKRI adalah bentuk negara?",
+        "A": "Kesatuan",
+        "B": "Serikat",
+        "C": "Koloni",
+        "D": "Kerajaan",
+        "answer": "A",
+        "explanation": "Negara Kesatuan Republik Indonesia."
+      },
+      {
+        "question": "Semboyan Bhineka Tunggal Ika berarti?",
+        "A": "Berbeda-beda tetapi tetap satu",
+        "B": "Sama semua",
+        "C": "Tidak ada perbedaan",
+        "D": "Satu saja",
+        "answer": "A",
+        "explanation": "Asas persatuan."
+      },
+      {
+        "question": "Alat pemersatu bangsa adalah?",
+        "A": "Bahasa Indonesia",
+        "B": "Bahasa daerah",
+        "C": "Bahasa asing",
+        "D": "Bahasa lokal",
+        "answer": "A",
+        "explanation": "Bahasa Indonesia sebagai pemersatu."
+      },
+      {
+        "question": "Wilayah Indonesia terbentang dari?",
+        "A": "Sabang sampai Merauke",
+        "B": "Jakarta sampai Bali",
+        "C": "Banten sampai Solo",
+        "D": "Madura sampai Bali",
+        "answer": "A",
+        "explanation": "Itulah cakupan NKRI."
+      },
+      {
+        "question": "Sikap bela negara adalah?",
+        "A": "Cinta tanah air",
+        "B": "Tidak peduli negara",
+        "C": "Meninggalkan konflik",
+        "D": "Menghindari tanggung jawab",
+        "answer": "A",
+        "explanation": "Wujud cinta tanah air."
+      },
+      {
+        "question": "Lambang negara Indonesia adalah?",
+        "A": "Garuda Pancasila",
+        "B": "Merpati",
+        "C": "Rajawali",
+        "D": "Singa",
+        "answer": "A",
+        "explanation": "Garuda sebagai simbol negara."
+      },
+      {
+        "question": "Dasar hukum NKRI adalah?",
+        "A": "UUD 1945",
+        "B": "UU Desa",
+        "C": "UU Pajak",
+        "D": "Perda",
+        "answer": "A",
+        "explanation": "UUD adalah konstitusi negara."
+      },
+      {
+        "question": "Persatuan bangsa penting untuk?",
+        "A": "Mencegah perpecahan",
+        "B": "Memperbanyak konflik",
+        "C": "Meningkatkan perbedaan",
+        "D": "Menghilangkan suku",
+        "answer": "A",
+        "explanation": "Persatuan mencegah konflik."
+      },
+      {
+        "question": "Bentuk cinta tanah air adalah?",
+        "A": "Menggunakan produk lokal",
+        "B": "Mengejek budaya",
+        "C": "Merusak fasilitas",
+        "D": "Tidak peduli negara",
+        "answer": "A",
+        "explanation": "Sikap positif mendukung negara."
+      },
+      {
+        "question": "Tujuan nasional Indonesia tercantum dalam?",
+        "A": "Pembukaan UUD 1945",
+        "B": "UU Perdagangan",
+        "C": "UU ITE",
+        "D": "UU Desa",
+        "answer": "A",
+        "explanation": "Tujuan nasional ada di alinea IV."
+      }
+    ]
+  }
+}
