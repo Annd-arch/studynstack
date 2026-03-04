@@ -6,7 +6,6 @@
 
 ## 👥 Profil Kelompok
 [cite_start]**Kelompok 6 - 2 D4 Teknik Komputer A** [cite: 3, 18]
-* [cite_start]**Muhammad Yusril Shihab** (3224600006) [cite: 5, 14]
 * [cite_start]**Raditya Ananta** (3224600009) [cite: 11, 15]
 * **G. [cite_start]Radith Widianto** (3224600022) [cite: 12, 16]
 * [cite_start]**Muhammad Ananda Nugroho** (3224600027) [cite: 13, 17]
