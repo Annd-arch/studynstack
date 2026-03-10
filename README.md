@@ -6,8 +6,8 @@ Profil
 Muhammad Ananda Nugroho
 
 Masalah & Solusi
-Masalah: Mahasiswa sering kesulitan mengingat konsep mata kuliah yang kompleks dan merasa metode belajar tradisional membosankan[cite: 24, 25].
-Solusi: Study 'N Stack menyediakan fitur chat interaktif yang meniru asisten belajar untuk membuat proses menghafal lebih aktif, menarik, dan terarah[cite: 26, 27, 29].
+Masalah: Mahasiswa sering kesulitan mengingat konsep mata kuliah yang kompleks dan merasa metode belajar tradisional membosankan.
+Solusi: Study 'N Stack menyediakan fitur chat interaktif yang meniru asisten belajar untuk membuat proses menghafal lebih aktif, menarik, dan terarah.
 
 ---
 
